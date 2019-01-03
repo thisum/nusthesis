@@ -25,4 +25,4 @@ You may customize the name of the output .pdf file by configuring `PDF_NAME` in 
 
 If you encounter any problem of using this template, feel free to contact me or create an issue in this repository. 
 
-All the best for your graduation!
+All the best for your graduation!!!
